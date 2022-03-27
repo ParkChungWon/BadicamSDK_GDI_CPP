@@ -1,4 +1,4 @@
-# BadicamSDK_GDI_CPP
+# BandicamSDK_GDI_CPP
 
 Record Window Screen Using BandicamSdk
 
