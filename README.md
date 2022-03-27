@@ -1,6 +1,6 @@
 # BandicamSDK_GDI_CPP
 
-Record Window Screen Using BandicamSdk
+Record Window Screen Using BandicamSdk (Window, Intel)
 
 Note: You must purchase a Badicam license to remove the watermark.
 
