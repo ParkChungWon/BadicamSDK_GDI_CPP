@@ -31,3 +31,6 @@
 *.out
 *.app
 /Animate_gl/.vs/Animate_gl_2015
+
+/.vs
+.vs/
