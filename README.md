@@ -1,5 +1,8 @@
 # BadicamSDK_GDI_CPP
 
+Note: You must purchase a Badicam license to remove the watermark.
+
+Record Window Screen Using BandicamSdk
 
 This Project was worked on the basis of the sample provided in BandicamSdk.
 
@@ -10,7 +13,6 @@ Reasons for Project : BandicamSdk does not provide GDI-based samples
 
 
 BandicamSdk :  https://www.bandicam.com/company/sdk/
-
 
 
 
