@@ -3,6 +3,7 @@
 
 This Project was worked on the basis of the sample provided in BandicamSdk.
 
+Reasons for Project : BandicamSdk does not provide GDI-based samples
 
 ![image](https://user-images.githubusercontent.com/54025099/160261465-f1da0865-a0a0-40a7-b835-16776d1ca8ea.png)
 
