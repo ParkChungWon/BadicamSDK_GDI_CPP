@@ -1,0 +1,25 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 12.00
+# Visual Studio Version 17
+VisualStudioVersion = 17.0.32126.317
+MinimumVisualStudioVersion = 10.0.40219.1
+Project("{8BC9CEB8-8B4A-11D0-8D11-00A0C91BC942}") = "Animate_gl", "Animate_gl_2015.vcxproj", "{35715FCE-A605-4775-B7F4-2EDA42F670BA}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|x86 = Debug|x86
+		Release|x86 = Release|x86
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{35715FCE-A605-4775-B7F4-2EDA42F670BA}.Debug|x86.ActiveCfg = Debug|Win32
+		{35715FCE-A605-4775-B7F4-2EDA42F670BA}.Debug|x86.Build.0 = Debug|Win32
+		{35715FCE-A605-4775-B7F4-2EDA42F670BA}.Release|x86.ActiveCfg = Release|Win32
+		{35715FCE-A605-4775-B7F4-2EDA42F670BA}.Release|x86.Build.0 = Release|Win32
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+	GlobalSection(ExtensibilityGlobals) = postSolution
+		SolutionGuid = {85D4D083-2022-43D0-8F7B-247C4D466619}
+	EndGlobalSection
+EndGlobal
