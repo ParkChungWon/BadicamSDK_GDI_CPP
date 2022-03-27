@@ -4,7 +4,10 @@
 
 
 
-base :  https://www.bandicam.com/company/sdk/
+BandicamSdk :  https://www.bandicam.com/company/sdk/
+
+This Project was worked on the basis of the sample provided in BandicamSdk.
+
 
 
 VS2022 : https://github.com/ParkChungWon/BadicamSDK_GDI_CPP/blob/main/Animate_gl/Animate_gl_2015.sln
